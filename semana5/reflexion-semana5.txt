@@ -1,0 +1,8 @@
+Las APIs ayudan porque permiten que la información de la comunidad se comparta de forma ordenada y automática entre sistemas.
+
+En una comunidad, pueden servir para:
+
+* Enviar reportes: una persona reporta un problema (ej. daño en vía) y la API lo guarda en la base de datos.
+* Recibir alertas: la app puede consultar la API y mostrar avisos importantes en tiempo real.
+* Compartir información: publicaciones, noticias o eventos se distribuyen igual para todos los usuarios.
+* Organizar datos: todo viaja en formato estructurado (como JSON), lo que evita confusión y errores.

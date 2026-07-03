@@ -1,0 +1,10 @@
+Una ruta es la dirección que sigue la app para saber qué mostrar o qué hacer cuando alguien hace una acción o entra a un enlace.
+
+En una app comunitaria sirve para organizar funciones como:
+
+* iniciar sesión
+* ver o crear publicaciones
+* comentar
+* ver perfiles
+
+En resumen: conecta lo que el usuario hace con la respuesta de la aplicación.
